@@ -1,0 +1,25 @@
+Em javascript, qual a diferença entre Set e Map?
+Set é um mapa simples de chave/valor e Map permite armazenar valores únicos de qualquer tipo
+Set é um mapa simples de chave/valor que não aceita repetições e Map permite armazenar valores únicos de qualquer tipo
+Set armazena qualquer tipo de valores, permitindo repetições e Map é um mapa simples de chave/valor
+Set permite armazenar valores únicos de qualquer tipo e Map é um mapa simples de chave/valor
+O que é closure em javascript?
+Closure são funções que podem acessar qualquer variável presente na pilha de execução
+Closure são funções que não conseguem acessar qualquer variável presentes na pilha de execução
+Closure são funções que não são capazes de lembrar e acessar seu escopo léxico quando ela está sendo executada fora deste escopo
+Closure são funções capazes de lembrar e acessar seu escopo léxico mesmo quando ela está sendo executada fora deste escopo
+No CSS, qual a diferença entre pseudo-classes e pseudo-elementos?
+Pseudo-elemento é uma palavra-chave adicionada a um seletor que permite que você estilize uma parte específica do elemento selecionado e pseudo-classe é uma palavra-chave adicionada a seletores que especifica um estado especial do elemento selecionado
+Pseudo-elemento é um seletor que define o estilo do elemento com o ID especificado e pseudo-classe é uma função usada como valor para várias propriedades CSS
+Pseudo-classe é uma propriedade que especifica a ordem da pilha de um elemento e pseudo-elemento é uma palavra-chave adicionada a um seletor que permite que você estilize uma parte específica do elemento selecionado
+Pseudo-classe é uma palavra-chave adicionada a um seletor que permite que você estilize uma parte específica do elemento selecionado e pseudo-elemento é uma palavra-chave adicionada a seletores que especifica um estado especial do elemento selecionado
+Quais tags HTML são usadas para exibir os dados na forma tabular?
+table, header, footer e td
+table, a, th e p
+table, hgroup, h1 e h2
+table, tr, th e td
+Qual a principal diferença entre CSS Grid e Flexbox?
+Grid tem como foco organizar os itens em linhas ou colunas, mas seguindo o sistema de blocos e Flexbox formado pela interseção de um conjunto de linhas horizontais e um conjunto de linhas verticais, serve para organizar seus itens de forma mais sofisticada, onde cada um tem um comportamento independente, ocupa um número de linhas e colunas que você estipula
+Grid tem como foco organizar os itens em linhas ou colunas, mas sem seguir um sistema de blocos e Flexbox formado pela interseção de um conjunto de linhas horizontais e um conjunto de linhas verticais, serve para organizar seus itens de forma mais sofisticada, onde cada um tem um comportamento independente, ocupa um número de linhas e colunas que você estipula
+Grid tem como foco organizar os itens em linhas ou colunas, mas seguindo o sistema de blocos e Flexbox formado pela interseção de um conjunto de linhas horizontais e um conjunto de linhas verticais, serve para organizar seus itens de forma mais sofisticada, porém cada um tem um comportamento dependente do componente pai, ocupa um número de linhas e colunas que você estipula
+Grid formado pela interseção de um conjunto de linhas horizontais e um conjunto de linhas verticais, serve para organizar seus itens de forma mais sofisticada, onde cada um tem um comportamento independente, ocupa um número de linhas e colunas que você estipula e Flexbox tem como foco organizar os itens em linhas ou colunas, mas seguindo o sistema de blocos
