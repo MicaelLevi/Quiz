@@ -11,7 +11,9 @@ Para iniciar aplicação é necessario:
   
 Iniciar backend:
   - Entrar na pasta  "web-service"
-  - Executar comando:`$ mvn spring-boot:run`
+  - Executar os seguintes comandos:
+    - `$ mvn install`
+    - `$ mvn spring-boot:run`
   
 Iniciar frontend:
   - Entrar na pasta "frontend"
